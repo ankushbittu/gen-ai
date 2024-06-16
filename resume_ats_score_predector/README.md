@@ -16,12 +16,12 @@ To get started with Smart ATS, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/smart-ats.git
+    git clone https://github.com/yourusername/genai/resume_ats_score_predector.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd smart-ats
+    cd resume_ats_score_predector
     ```
 
 3. Create and activate a virtual environment (optional but recommended):

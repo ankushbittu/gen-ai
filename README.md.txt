@@ -15,19 +15,18 @@ pip install -r requirements.txt
 Installation
 Clone the repository:
 
-sh
+
 Copy code
 git clone https://github.com/ankushbittu/gen-ai.git
 cd gen-ai/chat_with_multiple_pdfs
 Install the required Python packages:
 
-sh
 Copy code
 pip install -r requirements.txt
 Usage
 To start the application, run:
 
-sh
+
 Copy code
 python app.py
 This will launch the application, and you can start uploading PDF files and interacting with them through the chat interface.

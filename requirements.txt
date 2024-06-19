@@ -1,7 +1,0 @@
-streamlit #app
-google-generativeai 
-python-dotenv #to env
-langchain # read the pdf
-PyPDF2 #read the pdf
-faiss-cpu #processing
-langchain_google_genai #help of lang chain acess of gen ai

@@ -1,5 +1,5 @@
 streamlit #app
-google-generativeai 
+google-generativeai #genaifrom google
 python-dotenv #to env
 langchain # read the pdf
 PyPDF2 #read the pdf
